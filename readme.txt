@@ -1,4 +1,4 @@
-=== Mediabox CK ===
+=== Mediabox CK - Responsive Lightbox ===
 Contributors: ced1870
 Tags: lightbox
 Requires at least: 4.0
