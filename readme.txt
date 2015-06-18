@@ -11,8 +11,8 @@ Mediabox CK shows your medias in a nice responsive Lightbox. You can also use th
 == Description ==
 
 <p>Mediabox CK is a responsive Lightbox to show your medias. Responsive and compatible with touch devices. It can show any media like your images, videos from your server or from the social network like youtube or else, or any other url or html content.</p>
-<p>Example of use :</p><p>{tooltip}Text to hover{end-texte}a friendly little boy{end-tooltip}</p>
-<p><ul>
+<p>
+<ul>
 <li>- Can show any media : images, videos, html</li>
 <li>- Responsive behavior : resize the media according the screen size</li>
 <li>- Responsive layout : full screen image and bigger buttons to use with your finger</li>
