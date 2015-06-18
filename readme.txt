@@ -14,11 +14,11 @@ Mediabox CK shows your medias in a nice responsive Lightbox. You can also use th
 <p>
 <ul>
 <li>Can show any media : images, videos, html</li>
-<li><b>Responsive</b> behavior : resize the media according the screen size</li>
+<li>Responsive behavior : resize the media according the screen size</li>
 <li>Responsive layout : full screen image and bigger buttons to use with your finger</li>
-<li>Designed to <b>work with touch device</b> : swipe to navigate, tap to zoom on the image, use the finder to pan the zoomed image</li>
+<li>Designed to work with touch device : swipe to navigate, tap to zoom on the image, use the finder to pan the zoomed image</li>
 <li>Mobile detection based on resolution or device type</li>
-<li><b>Group your medias into albums</b> to navigate through them</li>
+<li>Group your medias into albums to navigate through them</li>
 <li>Can replace any existing Lightbox : you can select which selector to use for your links</li>
 <li>Options to style the lightbox (background, color, corner radius, etc ...) to fit it to your website design</li>
 <li>Show counter of medias</li>
